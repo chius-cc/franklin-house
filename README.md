@@ -1,4 +1,18 @@
+<div align="center">
+
 # Franklin 的山坡别墅 · Blender 工程
+
+参照 GTA V 中 Franklin 住所（3671 Whispymound Drive）制作的 3D 参考重建与程序化建模工程。
+
+[![License](https://img.shields.io/badge/license-CC%20BY%204.0-22863a.svg)](LICENSE)
+![Blender](https://img.shields.io/badge/Blender-5.1+-F5792A?logo=blender&logoColor=white)
+![Cycles](https://img.shields.io/badge/Render-Cycles%20%2F%20Metal-orange)
+
+[工程文件](Franklin_3671_Whispymound.blend) · [效果图目录](renders/) · [漫游视频](video/)
+
+</div>
+
+---
 
 参照 GTA V 中 Franklin 后期居住的 **3671 Whispymound Drive** 制作的 Blender 参考重建。重点重建建筑外观和泳池庭院，并加入窗内可见的简化室内陈设。比例根据截图估算，不是游戏原始模型或精确测绘。
 
@@ -96,3 +110,9 @@ Grand Theft Auto、GTA V、Franklin、3671 Whispymound Drive 及相关名称是 
 
 - [GTA Base · 3671 Whispymound Drive](https://www.gtabase.com/grand-theft-auto-v/properties/story-mode/3671-whispymound-drive-franklin-house)
 - [Sportskeeda · 临街车库与入口](https://www.sportskeeda.com/gta/why-lester-give-franklin-house-gta-5)
+
+---
+
+<div align="center">
+  <sub>Crafted with ❤️ by <a href="https://chius.cc">Chius</a> · Blender 3D Recreation</sub>
+</div>
