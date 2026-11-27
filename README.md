@@ -100,7 +100,7 @@ python3 scripts/encode_walkthrough.py
 
 本仓库中由作者创作的内容（Blender 工程、脚本、效果图、漫游视频等）采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，全文见 [`LICENSE`](LICENSE)。使用、改编或再分发时请署名，并附上许可链接。
 
-推荐署名：`chius-me / franklin-house`（https://github.com/chius-me/franklin-house），CC BY 4.0。
+推荐署名：`chius-n / franklin-house`（https://github.com/chius-n/franklin-house），CC BY 4.0。
 
 `references/` 中的游戏截图仅作建模对照，版权归原作者及 Take-Two Interactive / Rockstar Games 所有，**不在**本许可范围内。
 
